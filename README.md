@@ -1,6 +1,6 @@
 # Global COVID-19 Impact Dashboard
 
-![Global COVID-19 Impact Dashboard](Goodness_Festus_Week4_COVID19_Dashboard_Screenshot.png)
+![Global COVID-19 Impact Dashboard](Goodness_Festus_Week4_COVID19_Dashboard_Screenshot.jpeg)
 
 ## Project Overview
 
